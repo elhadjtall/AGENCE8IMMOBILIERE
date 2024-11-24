@@ -13,6 +13,7 @@ function Navigation() {
             <Nav.Link as={Link} to="/immeubles">Immeubles</Nav.Link>
             <Nav.Link as={Link} to="/appartements">Appartements</Nav.Link>
             <Nav.Link as={Link} to="/contact">Contact</Nav.Link>
+            <Nav.Link as={Link} to="/admin/dashboard">Dashboard</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
